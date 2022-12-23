@@ -1,7 +1,7 @@
 {
-  "name": "frida-systruct",
+  "name": "@reversense/frida-systruct",
   "version": "1.0.0",
-  "description": "A big set of structure defined inside kernel source code",
+  "description": "A big set of structures defined inside kernel source code",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
